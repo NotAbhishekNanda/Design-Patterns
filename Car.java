@@ -119,7 +119,7 @@ public class Car {
         }
 
     }
-}
+
 
 /*
  *You could then use your CarBuilder to create instances like this.
@@ -149,3 +149,4 @@ public static void main(String[] args) {
         System.out.println(myCar2);
 
     }
+}
